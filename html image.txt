@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Image</title>
+    <style>
+        body {
+            text-align: center;
+        }
+
+        img {
+            width: 80%;
+            max-width: 600px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>AI Illustration</h1>
+    <img src="html image.avif" alt="Artificial Intelligence Image">
+</body>
+</html>
